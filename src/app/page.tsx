@@ -26,6 +26,11 @@ const links = [
     icon: <SiInstagram className='text-zinc-300' />,
     title: 'Instagram',
     url: 'https://instagram.com/'
+  },
+  {
+    icon: <SiGithub className='text-zinc-300' />,
+    title: 'Github',
+    url: 'https://github.com/Samson2000-AI'
   }
 ]
 
