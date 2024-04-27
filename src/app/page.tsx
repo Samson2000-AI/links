@@ -75,7 +75,7 @@ const HomePage = () => {
       <div className='relative mx-auto flex flex-col items-center justify-center gap-4 pb-10 pt-24'>
         <Spotlight className='-top-4 left-56' />
         <Image
-          src='https://honghong.me/images/avatar.png'
+          src='/samson2000.jpg'
           width={90}
           height={90}
           alt='Logo'
