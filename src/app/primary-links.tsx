@@ -5,7 +5,7 @@ const PrimaryLinks = () => {
     <div className='flex items-center justify-center gap-6'>
       <SparkleButton className='mb-6'>
         <a
-          href='https://honghong.me'
+          href='https://t.me/happysamsonbot'
           target='_blank'
           className={SparkleButton.ClassName}
           rel='noopener, noreferrer'
