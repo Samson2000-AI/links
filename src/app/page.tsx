@@ -1,9 +1,5 @@
 import Image from 'next/image'
-import {
-  SiGithub,
-  SiInstagram,
-  SiYoutube
-} from 'react-icons/si'
+import { SiGithub, SiInstagram, SiYoutube } from 'react-icons/si'
 
 import Spotlight from '@/components/spotlight'
 
