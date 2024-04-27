@@ -18,54 +18,14 @@ import PrimaryLinks from './primary-links'
 
 const links = [
   {
-    icon: <FiBook className='text-zinc-300' />,
-    title: 'Blog',
-    url: 'https://honghong.me/blog'
-  },
-  {
     icon: <SiYoutube className='text-zinc-300' />,
     title: 'YouTube',
-    url: 'https://www.youtube.com/@tszhong0411'
-  },
-  {
-    icon: <SiFacebook className='text-zinc-300' />,
-    title: 'Facebook',
-    url: 'https://www.facebook.com/tszhong0411/'
-  },
-  {
-    icon: <SiSteam className='text-zinc-300' />,
-    title: 'Steam',
-    url: 'https://steamcommunity.com/profiles/76561199157324617/'
+    url: 'https://www.youtube.com/'
   },
   {
     icon: <SiInstagram className='text-zinc-300' />,
     title: 'Instagram',
-    url: 'https://instagram.com/tszhong0411/'
-  },
-  {
-    icon: <SiGithub className='text-zinc-300' />,
-    title: 'Github',
-    url: 'https://github.com/tszhong0411'
-  },
-  {
-    icon: <SiDiscord className='text-zinc-300' />,
-    title: 'Discord',
-    url: 'https://discordapp.com/users/886269624608522240'
-  },
-  {
-    icon: <SiTwitter className='text-zinc-300' />,
-    title: 'Twitter',
-    url: 'https://twitter.com/tszhong0411'
-  },
-  {
-    icon: <SiStackoverflow className='text-zinc-300' />,
-    title: 'Stack overflow',
-    url: 'https://stackoverflow.com/users/15166428'
-  },
-  {
-    icon: <SiDevdotto className='text-zinc-300' />,
-    title: 'Dev.to',
-    url: 'https://dev.to/tszhong0411'
+    url: 'https://instagram.com/'
   }
 ]
 
