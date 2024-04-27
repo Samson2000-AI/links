@@ -17,7 +17,10 @@ const PrimaryLinks = () => {
       </SparkleButton>
 
       <SparkleButton className='mb-6'>
-        <a href='mailto:jon@themodernlogicgroup.com' className={SparkleButton.ClassName}>
+        <a
+          href='mailto:jon@themodernlogicgroup.com'
+          className={SparkleButton.ClassName}
+        >
           <SparkleButton.Spark />
           <SparkleButton.Backdrop />
           <SparkleButton.Text>email questions</SparkleButton.Text>
