@@ -1,14 +1,7 @@
 import Image from 'next/image'
-import { FiBook } from 'react-icons/fi'
 import {
-  SiDevdotto,
-  SiDiscord,
-  SiFacebook,
   SiGithub,
   SiInstagram,
-  SiStackoverflow,
-  SiSteam,
-  SiTwitter,
   SiYoutube
 } from 'react-icons/si'
 
