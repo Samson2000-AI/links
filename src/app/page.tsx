@@ -83,7 +83,7 @@ const HomePage = () => {
           priority
         />
         <h1 className='text-xl font-semibold'>AI</h1>
-        <p className='text-[#a1a1a1]'>Samson200 AI Bot</p>
+        <p className='text-[#a1a1a1]'>Samson2000 AI Bot</p>
       </div>
       <PrimaryLinks />
       <div className='flex flex-col gap-4 py-3'>
