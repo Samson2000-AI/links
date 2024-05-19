@@ -9,7 +9,7 @@ const links = [
   {
     icon: <SiYoutube className='text-zinc-300' />,
     title: 'YouTube',
-    url: 'https://www.youtube.com/'
+    url: 'https://www.youtube.com/@Samson2000bot'
   },
   {
     icon: <SiInstagram className='text-zinc-300' />,
